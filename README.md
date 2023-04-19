@@ -1,6 +1,8 @@
 # Dataset:
 The dataset for the project has been downloaded from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/machine-learning-databases/00542/
+
 Number of Instances: 65532
+
 Number of Attributes: 12
 
 
